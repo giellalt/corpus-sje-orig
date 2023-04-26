@@ -157,7 +157,7 @@
         parallel directory of this file, with only the language code and
         filename changed.
     -->
-<!--    <xsl:variable name="parallels">
+    <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
         <parallel_text xml:lang="eng" location=""/>
         <parallel_text xml:lang="fin" location=""/>
@@ -177,7 +177,7 @@
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
     </xsl:variable>
--->
+
     <!--
         This variable is used for plain text files.
 
